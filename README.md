@@ -1,4 +1,4 @@
-# 2020 early vote tracking
+# 2020 Minnesota early vote tracking
 
 ## Setup
 - Rename .env.sample to .env, and check for any settings you need to adjust for your local aws setup.
